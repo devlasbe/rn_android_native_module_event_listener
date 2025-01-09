@@ -1,4 +1,4 @@
-package com.android_native_module_event_listener;
+package com.android_native_module_event_listener.event;
 
 import android.os.Handler;
 import android.os.Looper;
